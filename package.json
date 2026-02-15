@@ -1,0 +1,17 @@
+{
+  "name": "zara-bot-vercel",
+  "version": "1.0.0",
+  "description": "Zara Telegram Bot on Vercel",
+  "main": "api/webhook.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["telegram", "bot", "vercel", "serverless"],
+  "author": "Zara",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}

@@ -6,7 +6,7 @@
     }
   },
   "env": {
-    "TELEGRAM_TOKEN": "@telegram_token",
-    "BOT_USERNAME": "@bot_username"
+    "TELEGRAM_TOKEN": "8273792540:AAFLM40MVuq_15wG_Mdj7_FgwtB2JVVqq-E",
+    "BOT_USERNAME": "Zaraqueen11bot"
   }
 }

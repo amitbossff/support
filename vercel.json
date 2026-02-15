@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": {
+    "api/webhook.js": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "TELEGRAM_TOKEN": "@telegram_token",
+    "BOT_USERNAME": "@bot_username"
+  }
+}
